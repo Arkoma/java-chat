@@ -36,6 +36,10 @@
             <artifactId>json</artifactId>
             <version>20160810</version>
         </dependency>
-    </dependencies>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>1.7.21</version>
+        </dependency></dependencies>
 
 </project>
